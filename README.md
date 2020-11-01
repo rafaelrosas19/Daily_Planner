@@ -5,6 +5,7 @@
 ## Description
 
 https://rafaelrosas19.github.io/Daily_Planner/
+
 The goal of this web page was to create a daily workday planner that allows you to keep of track of tasks throughout the day. At each hour there is a text box that can be filled with information. The button on the right allows you to save your inputs in local storage in order to reference them later with color codes. 
 
 ## Installation 
